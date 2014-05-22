@@ -1,5 +1,5 @@
- #These set of functions take a matrix that is passed to it and sends the inverse of the matrix.  
- #When the inverse is calculated,the next time the matrix is sent, the inverse is returned from the Cached inverse previously calculated
+ #These set of functions take a matrix that is passed to it and returns the inverse of the matrix.  
+ #When the inverse is calculated,the next time the matrix is returned, the inverse is returned from the Cached inverse previously calculated
  
  
 
